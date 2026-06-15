@@ -5,71 +5,17 @@ body {
     color: #333;
 }
 
-.container {
-    width: 80%;
-    margin: 30px auto;
-    border: 2px solid #ddd;
-    background-color: white;
-}
-
 header {
-    background-color: blue;
+    background-color: #005f99;
     color: white;
     text-align: center;
-    padding: 10px;
-}
-
-.profile {
-    display: flex;
-    gap: 20px;
     padding: 20px;
-    margin: 15px;
-    background-color: white;
-    border-radius: 5px;
-}
-
-.profile img {
-    width: 120px;
-    height: 150px;
-    object-fit: cover;
 }
 
 section {
-    margin: 15px;
-    padding: 20px;
     background-color: white;
-    border-radius: 5px;
-}
-
-h2 {
-    color: black;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-}
-
-th {
-    background-color: blue;
-    color: white;
-}
-
-th,
-td {
-    border: 1px solid #999;
-    padding: 10px;
-    text-align: left;
-}
-
-ul {
-    line-height: 1.8;
-}
-
-footer {
-    background-color: blue;
-    color: white;
-    text-align: center;
-    padding: 15px;
+    color: darkblue;
+    font-size: 1.25em;
+    padding: 20px;
+    margin: 20px;
 }
